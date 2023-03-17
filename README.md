@@ -6,7 +6,7 @@
 # Tips
 - 灵感&大框架来自：https://www.bilibili.com/video/BV13T411g7J1?p=1 ，特向该视频p主juebukeyi致谢。
 - 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 ，都 给 我 听
-- 主要用到的函数教学：https://www.bilibili.com/video/av201021490/?vd_source=18bfdb6792434f41490022c3542f60f8 以及用于计算置信系数t的TINV(1-置信度,自由度)。
+- 主要用到的函数教学：https://www.bilibili.com/video/av201021490 以及用于计算置信系数t的ROUND(TINV(1-置信度,自由度),2)。
 - 暂时并不打算用FIXED在excel中保留小数数位，因为会极大地削弱可编辑性和可移植性，预计后期会补完。
 
 # TODO
