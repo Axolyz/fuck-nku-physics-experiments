@@ -25,6 +25,6 @@
 
 以上。
 
-点上一颗star即可为守矢神社提供一个大信仰点，愿神妈保佑你今天骑车顺风（比星）。  
+## 点上一颗star即可为守矢神社提供一个大信仰点，愿神妈保佑你今天骑车顺风（比星）。  
 [![ppG6bVg.jpg](https://s1.ax1x.com/2023/03/17/ppG6bVg.jpg)](https://imgse.com/i/ppG6bVg)
 Licensed by GPL v3.
