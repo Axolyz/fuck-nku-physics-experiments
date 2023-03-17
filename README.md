@@ -4,10 +4,11 @@
 无论你是本校学生想要为这个项目添砖加瓦建言献策，亦或是外校学生想在此基础上改动以适应自己的教材版本，请与我联系或直接提交文件至这个仓库。欢迎一切commit，fork以及pull request以及交流合作。  
 
 # Tips
-- 灵感&大框架来自：https://www.bilibili.com/video/BV13T411g7J1?p=1 ，特向该视频p主juebukeyi致谢。
-- 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 ，都 给 我 听
-- 主要用到的函数教学：https://www.bilibili.com/video/av201021490 以及用于计算置信系数t的ROUND(TINV(1-置信度,自由度),2)。
-- 暂时并不打算用FIXED在excel中保留小数数位，因为会极大地削弱可编辑性和可移植性，预计后期会补完。
+
+- 灵感&大框架来自：https://www.bilibili.com/video/BV13T411g7J1?p=1 的农大版，特向该视频p主juebukeyi致谢。
+- 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 都 给 我 听
+- 主要用到的excel函数教学：https://www.bilibili.com/video/av201021490 以及用于计算置信系数t的ROUND(TINV(1-置信度,自由度),2)。
+- 暂时并不打算用ROUND在excel中保留小数数位，因为会极大地削弱可编辑性和可移植性，预计后期会补完。
 
 # TODO
 
@@ -23,4 +24,5 @@
 > ----《SJTU生存手册》  
 
 以上。守矢神社祝您今天骑车顺风（画星星）。  
+[![ppG6bVg.jpg](https://s1.ax1x.com/2023/03/17/ppG6bVg.jpg)](https://imgse.com/i/ppG6bVg)
 Licensed by GPL v3.
