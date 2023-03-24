@@ -9,22 +9,34 @@
 > ----《SJTU生存手册》  
 
 本仓库旨在提供针对南开张春玲版《大学基础物理实验》的全套解决方案，包括但不限于实验报告模板以及数据处理excel（优先事项）。  
-无论你是本校学生想要为这个项目添砖加瓦建言献策，亦或是外校学生想在此基础上改动以适应自己的教材版本，欢迎一切commit，fork以及pull request以及交流合作。如果您发现了错误或不足，请务必提出issue，在下感激不尽。  
+无论你是本校学生想要为这个项目添砖加瓦建言献策，亦或是外校学生想在此基础上改动以适应自己的教材版本，欢迎一切fork，pull request以及交流合作。如果您发现了错误或不足，请务必提出issue，在下感激不尽。  
 
 # Tips
 
-- 灵感&大框架来自：https://www.bilibili.com/video/BV13T411g7J1?p=1 的农大版，特向该视频p主juebukeyi致谢。
-- 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 都 给 我 听
+- excel中的绝大部分物理量名称与张春玲版《大学基础物理实验》完全一致，可对照书本，尤其是书本上的数据处理表格填入数据。
+- 大框架来自：https://www.bilibili.com/video/BV13T411g7J1?p=1 的农大版，特向该视频p主juebukeyi致谢。
+- 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 都！给！我！听！！
 - 主要用到的excel函数教学：https://www.bilibili.com/video/av201021490 以及用于计算置信系数t的ROUND(TINV(1-置信度,自由度),2)。
-- 暂时并不打算用ROUND在excel中保留小数数位，因为会极大地削弱可编辑性和可移植性，预计后期会补完。
+- excel绘图教程：https://www.bilibili.com/video/BV14b4y1b7Jj/?spm_id_from=333.337.search-card.all.click&vd_source=18bfdb6792434f41490022c3542f60f8
 
-# TODO
+# 一点doc
+- 考虑到本校物理实验教学内容，ppt和教材可能的变化，本仓库可能需要23级的学弟帮忙维护，所以可编辑性和可移植性会较为重要，也方便外校学生fork后自行改编。
+- 暂时并不打算用ROUND在excel中保留小数数位，更不打算直接采用保留小数位数的单元格格式，因为这会极大地削弱可编辑性和可移植性，预计后期会补完。
+- 同理，并不打算在excel内置描点作图功能，请使用者自行学习，教程在tip部分。
 
-- [ ] 补全17个实验
+# Todo
+
+- [ ] 补全17个实验的excel
+- [ ] 预习题答案
+- [ ] 对模糊不清的物理量含义加以说明
 - [ ] 物理量保留位数的提示
+- [ ] 便于后续维护和更新的规范doc
+- [ ] 参考的的实验数据
 
 以上。
 
 ## 本仓库已远程接入荷取科技自主研发的妖怪之山信仰系统，点上一颗star即可为守矢神社提供一个大信仰点，Sanae会召唤大奇迹保佑你今天骑车顺风（比星）。  
 [![ppG6bVg.jpg](https://s1.ax1x.com/2023/03/17/ppG6bVg.jpg)](https://imgse.com/i/ppG6bVg)
+Author: Axolyz.
+Website: https://github.com/Axolyz/fuck-university-physics-experiments. Stars, issues & contributes are welcomed.
 Licensed by GPL v3.
