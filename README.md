@@ -41,11 +41,18 @@
 
 以上。
 
-**本仓库已远程接入荷取科技自主研发的妖怪之山信仰系统，点上一颗star即可为守矢神社提供一个大信仰点，Sanae会召唤大奇迹保佑你今天骑车顺风（比星）。**  
-[![ppG6bVg.jpg](https://s1.ax1x.com/2023/03/17/ppG6bVg.jpg)](https://imgse.com/i/ppG6bVg)  
-Author: Axolyz.  
-Website: https://github.com/Axolyz/fuck-university-physics-experiments. Stars, issues & contributes are welcomed.  
+# 友链
+
+https://github.com/JFYStudy/NKU_experiment-report LATEX加持下的大物实验报告。
 
 # License
 
 Licensed by GPL v3.
+
+# Stage EX
+
+Author: Axolyz.  
+Website: https://github.com/Axolyz/fuck-university-physics-experiments.  
+Stars, issues & contributes are welcomed.  
+**本仓库已远程接入荷取科技自主研发的妖怪之山信仰系统，点上一颗star即可为守矢神社提供一个大信仰点，Sanae会召唤大奇迹保佑你今天骑车顺风（比星）。**  
+[![ppG6bVg.jpg](https://s1.ax1x.com/2023/03/17/ppG6bVg.jpg)](https://imgse.com/i/ppG6bVg)  
