@@ -40,7 +40,6 @@
 - 考虑到本校物理实验教学内容，ppt和教材可能的变化，本仓库可能需要23级的学弟帮忙维护，所以可编辑性和可移植性会较为重要，也方便外校学生fork后自行改编。
 - 考虑到可能的抄袭指控和暴露的风险，本仓库暂时不打算包含任何实验报告样例。
 - 暂时并不打算用ROUND在excel中保留小数数位，更不打算直接采用保留小数位数的单元格格式，因为这会极大地削弱可编辑性和可移植性，预计后期会补完。
-- 同理，并不打算在excel内置描点作图功能，请使用者自行学习，教程在tip部分。
 
 # Todo
 
@@ -50,13 +49,13 @@
 - [ ] 物理量保留位数的提示
 - [ ] 便于后续维护和更新的规范doc
 - [ ] 参考实验数据
+- [ ] 在excel内置描点作图功能
 
 # 友链
 
 https://github.com/JFYStudy/NKU_experiment-report LATEX加持下的大物实验报告。  
 https://github.com/shesl-meow/PhysicsAnalysis 无名南开学长的贡献，使用cpp。  
-https://github.com/feixukeji/PhyX 科大的项目，内附详细的文档和在线数据处理工具。
-
+https://github.com/feixukeji/PhyX 科大的项目，内附详细的文档和在线数据处理工具。  
 以上。
 
 # License
