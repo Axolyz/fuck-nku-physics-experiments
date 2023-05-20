@@ -37,7 +37,7 @@
 
 # Tested(基本上没bug)
 
-- [x] 力学部分全部实验
+- [x] 力学部分全部实验（hotfix 5.18：碰撞实验的e值计算有大问题，已换源）
 - [x] 电学部分全部实验
 
 # Untested(可能有bug)
@@ -53,6 +53,7 @@
 # Todo
 
 - [x] 补全17个实验的excel（4.23更新：全部实验的数据处理已经更新完毕）
+- [ ] 使公式处于只读状态防止误操作改动公式
 - [ ] 预习题答案/预习题库（这东西太逆天了）
 - [ ] 对模糊不清的物理量含义加以说明
 - [ ] 物理量保留位数的提示
@@ -62,9 +63,10 @@
 
 # 友链
 
-https://github.com/JFYStudy/NKU_experiment-report LATEX加持下的大物实验报告。  
+https://github.com/JFYStudy/NKU_experiment-report 实验报告LATEX版。  
 https://github.com/shesl-meow/PhysicsAnalysis 无名南开学长的贡献，使用cpp。  
 https://github.com/feixukeji/PhyX 科大的项目，内附详细的文档和在线数据处理工具。  
+https://github.com/nkuflw/nku-physics-exp 实验报告word版，爆了无数金币还把金币开源了的伟皇致以最高的敬意敬意敬意敬意敬意敬意敬意  
 以上。
 
 # License
