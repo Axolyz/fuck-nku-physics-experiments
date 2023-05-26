@@ -39,10 +39,8 @@
 
 - [x] 力学部分全部实验（hotfix 5.18：碰撞实验的e值计算有大问题，已换源）
 - [x] 电学部分全部实验
-
-# Untested(可能有bug)
-
-- [ ] 光学部分全部实验
+- [x] 光学部分全部实验
+当前版本bug已经很少了,出现的问题大多数是使用问题,后期会加大力度改善使用引导方面的内容.
 
 # 一点doc
 
@@ -58,13 +56,14 @@
 - [ ] 对模糊不清的物理量含义加以说明
 - [ ] 物理量保留位数的提示
 - [ ] 便于格式优化，后续维护和更新的规范doc
-- [ ] 用于参考的实验数据
+- [ ] 用于参考的实验数据(单独的sheet)
 - [ ] 在excel内置描点作图功能
 
 # 友链
 
 https://github.com/JFYStudy/NKU_experiment-report 实验报告LATEX版。  
 https://github.com/shesl-meow/PhysicsAnalysis 无名南开学长的贡献，使用cpp。  
+https://github.com/Lunaticsky-tql/NKU_PhysicExp 同届大佬的项目,使用python.  
 https://github.com/feixukeji/PhyX 科大的项目，内附详细的文档和在线数据处理工具。  
 https://github.com/nkuflw/nku-physics-exp 实验报告word版，爆了无数金币还把金币开源了的伟皇致以最高的敬意敬意敬意敬意敬意敬意敬意  
 以上。
