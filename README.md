@@ -70,7 +70,7 @@ https://github.com/feixukeji/PhyX 科大的项目，内附详细的文档和在�
 https://github.com/nkuflw/nku-physics-exp 实验报告word版。  
 以上。
 
-# ♡如果也和我一起开源的话...可以哦～
+# ♡如果和我一起开源的话...也不是不可以哦～
 
 Licensed by GPL v3.
 
