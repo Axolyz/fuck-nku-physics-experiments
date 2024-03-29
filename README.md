@@ -1,5 +1,5 @@
 # fuck⭐nku⭐physics⭐experiments
-# 本人是23级的学生，秉承着互联网开源精神，现在对这个仓库进行维护更新，主要是针对23级大物实验的变化对本仓库进行修改，欢迎更多的23级的同学加入进来，本仓库由22级Axolyz创建，https://github.com/Axolyz。
+# 本人是23级的学生，秉承着互联网开源精神，现在对这个仓库进行维护更新，主要是针对23级大物实验的变化对本仓库进行修改，欢迎更多的23级的同学加入进来，本仓库由22级Axolyz创建，https://github.com/Axolyz。。
 主仓库导航（使用或下载文件、提交PR等操作请移步主仓库）https://github.com/Axolyz/fuck-nku-physics-experiments
 # ※本仓库目前极其希望能得到其他志愿维护者的协助，尤其是本校23级的同学※
 
