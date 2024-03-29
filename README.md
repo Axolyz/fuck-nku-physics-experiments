@@ -2,7 +2,7 @@
 
 # ※本仓库目前极其希望能得到其他志愿维护者的协助，尤其是本校23级的同学※
 
-# （by ghost233lism）本人是23级的学生，秉承着互联网开源精神，现在对这个仓库进行维护更新，主要是针对23级大物实验的变化对本仓库进行修改，欢迎更多的23级的同学加入进来。
+# (by ghost233lism) 本人是23级的学生，秉承着互联网开源精神，现在对这个仓库进行维护更新，主要是针对23级大物实验的变化对本仓库进行修改，欢迎更多的23级的同学加入进来。
 
 笔者是22级的老东西, 现在已经脱离了大物实验一线, 发布的表格如果不维护就难以维系, 目前极其希望能得到其他志愿维护者的协助，尤其是本校23级的同学。
 
@@ -14,13 +14,13 @@
 
 本仓库旨在提供针对南开张春玲版《大学基础物理实验》的解决方案，包括但不限于数据处理excel和预习题。  
 
-- 仓库分为三个分支,rm分支已废弃,protect分支使公式处于保护状态防止误操作改动公式,除此之外和main分支无区别,可手动通过审阅-取消保护工作表取消公式保护,main分支也可手动通过审阅-保护工作表开启公式保护.
-- release为protect分支的内容.
+- 仓库分为三个分支,rm分支已废弃,protect分支（更新会很慢，因为每次更新再开一次公式保护很麻烦）使公式处于保护状态防止误操作改动公式,除此之外和main分支无区别,可手动通过审阅-取消保护工作表取消公式保护,main分支也可手动通过审阅-保护工作表开启公式保护.
 - excel中的大部分物理量名称与张春玲版《大学基础物理实验》一致，可对照书本，尤其是书本上的数据处理表格填入数据。
 - 大框架来自：https://www.bilibili.com/video/BV13T411g7J1?p=1 的农大版，特向该视频p主juebukeyi致谢。
 - 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 都！给！我！听！！
 - 主要用到的excel函数教学：https://www.bilibili.com/video/av201021490 以及用于计算置信系数t代替查表的ROUND(TINV(1-置信度,自由度),2)。
 - excel绘图教程：https://www.bilibili.com/video/BV14b4y1b7Jj
+- 保护公式的方法：https://baijiahao.baidu.com/s?id=1773006612140140395&wfr=spider&for=pc （建议提交新excel之前过一遍这个流程来保护新写出来的公式格子）
 - p分支小标题灵感：https://www.bilibili.com/video/BV1gC4y1P7t3
 - 理论指导：https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing
 
@@ -54,10 +54,10 @@
 - [x] 光学部分全部实验
 - [x] 补全17个实验的excel（4.23更新：全部实验的数据处理已经更新完毕）
 - [x] 使公式处于只读状态防止误操作改动公式
-- [x] 预习题答案/预习题库（这东西太逆天了）
+- [x] 预习题答案/预习题库
   > 题库已经接近完成，会整理好格式一点点传上去，可能剩下的就是答案的捉虫工作了。
 - [ ] 补全物理量的单位和写法，使其和南开课本尽量吻合
-- [ ] 对表格中具体含义模糊不清的物理量字母在表头加上文字说明
+- [ ] 对表格中只有一个字母表示，模糊不清的物理量在表头加上文字说明
 - [ ] 优化使用引导
   > 使用体验反馈
 - [ ] 收集助教给的实验讲义或者流程（今年的）
@@ -69,7 +69,7 @@
   > 把做完实验的表格数据留个底，当然数据最好别太离谱
 - [ ] 在所有需要绘图的excel中内置描点作图功能
   > 参见上面的excel画图教学
-- [ ] 终极目标：https://github.com/feixukeji/PhyX 像科大这样做成在线版的，外带各种实验相关资料的博客站，用静态网页生成器搞就行
+- [ ] 终极目标：https://github.com/feixukeji/PhyX 像科大这样做成在线版的
 
 ## 友链
 
@@ -86,7 +86,6 @@ Licensed by GPL v3.
 
 ## About
 
-Authored by Axolyz.  
 Posted on https://github.com/Axolyz/fuck-university-physics-experiments.  
 Welcome for stars, issues & contributions.  
 
