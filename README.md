@@ -21,6 +21,7 @@
 - 不逆天的实验绪论课：https://www.bilibili.com/video/BV13T411g7J1?p=2 都！给！我！听！！
 - 主要用到的excel函数教学：https://www.bilibili.com/video/av201021490 以及用于计算置信系数t代替查表的ROUND(TINV(1-置信度,自由度),2)。
 - excel绘图教程：https://www.bilibili.com/video/BV14b4y1b7Jj
+- 保护公式的方法：https://baijiahao.baidu.com/s?id=1773006612140140395&wfr=spider&for=pc （建议提交新excel之前过一遍这个流程来保护新写出来的公式格子）
 - p分支小标题灵感：https://www.bilibili.com/video/BV1gC4y1P7t3
 - 理论指导：https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing
 
