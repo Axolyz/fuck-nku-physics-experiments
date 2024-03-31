@@ -3,7 +3,9 @@
 # 本仓库目前极其希望能得到其他志愿维护者的协助，尤其是本校23级的同学 ~~♡人家才...才不是想和你一起维护项目呢！！~~
 
 笔者是22级的老东西, 现在已经脱离了大物实验一线, 发布的表格如果不维护就难以维系, 目前极其希望能得到其他志愿维护者的协助，尤其是本校23级的同学。  
+
 维护工作并不需要很高深的技术力和知识，可以根据当届的情况改一改excel再pull request上来，可以贡献一些自己的数据和预习题答案，具体可以做的事情写在下面的todo一栏中了，欢迎一切交流合作，fork，issue，pull request，以及小窗（qq792405142）。  
+
 考虑到本校物理实验每年教学内容，ppt和教材可能的变化（甚至据我所知有的实验每个助教讲的都不一样），表格公式的可编辑性和可移植性会较为重要，也方便外校学生fork后自行改编。
 
 ---
@@ -61,6 +63,7 @@ Licensed by GPL v3.
 Posted on https://github.com/Axolyz/fuck-university-physics-experiments.  
 Welcome for stars, issues & contributions.  
 
-[![ppG6bVg.jpg]()](https://imgse.com/i/ppG6bVg)  
+![ke-ta 56884409](https://github.com/Axolyz/fuck-nku-physics-experiments/assets/60435400/57a55b27-7a03-49f1-b50a-1dbe6080098b)
+
 
 **本仓库已远程接入荷取科技自主研发的妖怪之山信仰系统，点上一颗star⭐即可为守矢神社提供一个大信仰点，Sanae会召唤大奇迹保佑你今天骑车顺风。**
