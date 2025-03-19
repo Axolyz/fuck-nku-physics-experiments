@@ -18,7 +18,3 @@ Licensed by GPL v3.
 Posted on https://github.com/Axolyz/fuck-university-physics-experiments.  
 Welcome for stars, issues & contributions.  
 
-![ke-ta 56884409](https://github.com/Axolyz/fuck-nku-physics-experiments/assets/60435400/57a55b27-7a03-49f1-b50a-1dbe6080098b)
-
-
-**本仓库已远程接入荷取科技自主研发的妖怪之山信仰系统，点上一颗star⭐即可为守矢神社提供一个大信仰点，Sanae会召唤大奇迹保佑你今天骑车顺风。**
